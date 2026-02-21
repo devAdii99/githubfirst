@@ -1,2 +1,3 @@
 # githubfirst
-this is my first git repositary
+This is my first git repositary
+Author - Aditya Gaikar
